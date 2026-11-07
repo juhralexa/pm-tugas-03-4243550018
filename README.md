@@ -46,11 +46,17 @@ Untuk error handling, program menggunakan `FormatException` pada fungsi `validas
 
 ## Screenshot Pengujian
 
-Dokumentasi hasil pengujian program tersedia pada folder `screenshots/`:
+### 1. Hasil Program
 
-- `hasil-program.png`
-- `validasi-sks.png`
-- `validasi-nilai.png`
+![Hasil Program](screenshots/hasil-program.png)
+
+### 2. Validasi SKS
+
+![Validasi SKS](screenshots/validasi-sks.png)
+
+### 3. Validasi Nilai
+
+![Validasi Nilai](screenshots/validasi-nilai.png)
 
 ## Pernyataan Penggunaan AI
 
