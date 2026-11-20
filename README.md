@@ -6,6 +6,7 @@ Program Kalkulator IP Semester berbasis Dart Console untuk menghitung Indeks Pre
 
 - **Nama:** Juhraini Helfiana Lexa
 - **NIM:** 4243550018
+- **Kelas:** PSIK 24C
 - **Program Studi:** Ilmu Komputer
 - **Mata Kuliah:** Pemrograman Mobile
 - **Tugas:** Tugas Rutin 3
@@ -60,5 +61,5 @@ Untuk error handling, program menggunakan `FormatException` pada fungsi `validas
 
 ## Pernyataan Penggunaan AI
 
-Saya menggunakan ChatGPT sebagai alat bantu untuk memahami instruksi tugas, mempelajari konsep pemrograman Dart, serta membantu memeriksa kode program. Saya tetap menjalankan dan menguji program untuk memastikan hasilnya sesuai dengan ketentuan tugas.
+Saya menggunakan Claude AI sebagai alat bantu untuk memahami instruksi tugas, mempelajari konsep pemrograman Dart, serta membantu memeriksa kode program. Saya tetap menjalankan dan menguji program untuk memastikan hasilnya sesuai dengan ketentuan tugas.
 
